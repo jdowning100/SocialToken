@@ -33,10 +33,10 @@ Note that the first account you create in any Vulcan app automatically belongs t
 
 const Step5 = () => (
   <Components.Step step={5} text={text} after={after}>
-    {/*
+    
     <Components.Schema/>
-    */}
+    
   </Components.Step>
 );
-
+  
 registerComponent({ name: 'Step5', component: Step5 });

@@ -9,20 +9,23 @@ vulcan:i18n-en-us
 ############ Accounts Packages ############
 
 accounts-password@1.5.1
-# accounts-twitter
-# accounts-facebook
+#accounts-twitter
+#accounts-facebook
 
 ############ Your Packages ############
 
-getting-started
+#getting-started
 
 # example-simple
 # example-movies
 # example-instagram
-# example-forum
+#example-forum
+#blog
+tweetbook
 # example-customization
 # example-permissions
 # example-membership
 # example-interfaces
 # example-reactions
 # example-forms
+vulcan:debug

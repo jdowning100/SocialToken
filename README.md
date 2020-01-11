@@ -1,5 +1,11 @@
 
-# Vulcan Starter
+# SocialToken
+
+This was an attempt by me at creating a twitter-style decentralized social network on the blockchain using the Loom Network (https://loomx.io).
+It sort of works. I don't remember all the commands I used as I did this about a year ago as a side-project, but basically you need to start the Loom node (with the loom executable) then run the loom-backend, then run the Vulcan Meteor application. The relevant meteor code is in packages/tweetbook. None of the other folders in packages/ are relevant.
+This project is no longer under construction as I am working on other things, but I decided to open-source this in case anybody else is looking to build something similar. Good luck!
+
+Below is the default Vulcan readme:
 
 This kit gives you all you need to quickly learn Vulcan and launch your own projects.
 
